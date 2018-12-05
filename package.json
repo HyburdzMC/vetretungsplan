@@ -1,0 +1,35 @@
+{
+  "name": "vetretungsplan",
+  "version": "1.0.0",
+  "description": "Vetretung app for DSB Mobile",
+  "main": "app.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "dsbapi": "^3.0.6",
+    "eslint": "^5.9.0",
+    "hub": "^6.1.2",
+    "jshint": "^2.9.6",
+    "node-windows": "^0.1.14",
+    "scoop": "^0.0.2",
+    "wget": "^0.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HyburdzMC/vetretungsplan.git"
+  },
+  "author": "Yassir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HyburdzMC/vetretungsplan/issues"
+  },
+  "homepage": "https://github.com/HyburdzMC/vetretungsplan#readme"
+}
